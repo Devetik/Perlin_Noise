@@ -1,0 +1,17 @@
+/Library
+/results
+/Temp
+/Assets/Resouces/*
+DevetikENV/*
+!DevetikENV/Lib/
+DevetikENV/Lib/*
+!DevetikENV/Lib/site-packages/
+DevetikENV/Lib/site-packages/*
+!DevetikENV/Lib/site-packages/mlagents/
+
+ENV/*
+!ENV/Lib/
+ENV/Lib/*
+!ENV/Lib/site-packages/
+ENV/Lib/site-packages/*
+!ENV/Lib/site-packages/mlagents/
